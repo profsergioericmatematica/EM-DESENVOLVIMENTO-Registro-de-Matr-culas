@@ -1,4 +1,4 @@
-# 🎥 Registro de Matrícluas
+# 🎥 Registro de Matrículas
 > **⚠️ STATUS: PROJETO EM DESENVOLVIMENTO**
 > Este repositório está sendo estruturado para organizar materiais audiovisuais, planos de aula e recursos interativos voltados ao ensino de Matemática.
 
